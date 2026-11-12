@@ -1,0 +1,3 @@
+jupyterlab==4.3.5
+nbclient==0.10.2
+nbformat==5.10.4
